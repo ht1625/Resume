@@ -1,1 +1,1 @@
-# You can see my resume when upload file.
+# My resume is available in the uploaded file.
